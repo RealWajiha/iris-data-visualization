@@ -35,7 +35,7 @@ The project includes the following charts:
 ```text
 iris-data-visualization/
 │
-├── task_03_iris_data_visualizations.ipynb
+├── iris_data_visualizations.ipynb
 ├── iris_flower_dataset.csv
 └── README.md
 ```
